@@ -1,0 +1,7 @@
+C:\Users\Arshak\source\repos\NewProjectOOP\NewProjectOOP\bin\Debug\NewProjectOOP.exe.config
+C:\Users\Arshak\source\repos\NewProjectOOP\NewProjectOOP\bin\Debug\NewProjectOOP.exe
+C:\Users\Arshak\source\repos\NewProjectOOP\NewProjectOOP\bin\Debug\NewProjectOOP.pdb
+C:\Users\Arshak\source\repos\NewProjectOOP\NewProjectOOP\obj\Debug\NewProjectOOP.csprojAssemblyReference.cache
+C:\Users\Arshak\source\repos\NewProjectOOP\NewProjectOOP\obj\Debug\NewProjectOOP.csproj.CoreCompileInputs.cache
+C:\Users\Arshak\source\repos\NewProjectOOP\NewProjectOOP\obj\Debug\NewProjectOOP.exe
+C:\Users\Arshak\source\repos\NewProjectOOP\NewProjectOOP\obj\Debug\NewProjectOOP.pdb
